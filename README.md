@@ -287,4 +287,4 @@ Toda contribuição é muito bem-vinda! 💡🔧
 
 ---
 
-<h3 align="center">Feito com ❤️ por Eduardo Reche</h1>  
+
