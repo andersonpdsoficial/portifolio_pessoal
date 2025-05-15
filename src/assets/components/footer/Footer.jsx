@@ -19,7 +19,7 @@ const Footer = () => {
               <li><a href="#main-header">Sobre Mim</a></li>
               <li><a href="#skills">Habilidades</a></li>
               <li><a href="#experience">Experiência</a></li>
-              <li><a href="/CV_Eduardo_Reche.pdf" target='_blank'>Meu CV</a></li>
+              <li><a href="/curricuo_Anderson_Pereira_da_Silva.pdf" target='_blank'>Meu CV</a></li>
             </ul>
           </div>
           <div className="footer-col">

@@ -78,7 +78,7 @@ const Navbar = () => {
             ))}
           </motion.ul>
 
-          <a href='/CV_Eduardo_Reche.pdf' target='_blank' className='cv-button popIn' >
+          <a href='/curricuo_Anderson_Pereira_da_Silva.pdf' target='_blank' className='cv-button popIn' >
             <span>Meu CV</span><FaDownload />
           </a>
         </motion.div>
